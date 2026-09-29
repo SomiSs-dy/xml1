@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE timeTable SYSTEM "timetable.dtd">
+<timeTable>
+    <complexes>
+        <complex code="c1">
+            <name>Спортивный комплекс «Олимп»</name>
+            <address>г. Москва, ул. Ленина, д. 10</address>
+        </complex>
+        <complex code="c2">
+            <name>Бассейн «Дельфин»</name>
+            <address>г. Москва, пр-т Мира, д. 25</address>
+        </complex>
+    </complexes>
+    <lessons>
+        <lesson no="1" complex="c1">
+            <date>2026-10-01</date>
+            <time>10:00</time>
+        </lesson>
+        <lesson no="2" complex="c1">
+            <date>2026-10-01</date>
+            <time>11:30</time>
+        </lesson>
+        <lesson no="3" complex="c2">
+            <date>2026-10-02</date>
+            <time>15:00</time>
+        </lesson>
+    </lessons>
+</timeTable>
